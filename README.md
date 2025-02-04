@@ -3,7 +3,9 @@ Wireshark is a powerful, open-source tool used for network protocol analysis. Th
 
 ## Tools & Technologies
 Wireshark: Network protocol analyzer for packet capturing and analysis.
+
 Operating Systems: Windows, macOS, Linux.
+
 Protocols Covered: HTTP, TCP/IP, UDP, DNS, ICMP, ARP, and more.
 
 ## Using Wireshark for Network Analysis
